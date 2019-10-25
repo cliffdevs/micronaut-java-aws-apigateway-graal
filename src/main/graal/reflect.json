@@ -46,4 +46,16 @@
   "name" : "io.micronaut.http.client.ServiceHttpClientCondition",
   "allPublicMethods" : true,
   "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.function.aws.proxy.MicronautAwsProxyResponse",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.NettyMutableHttpResponse",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.simple.SimpleHttpResponse",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
 }]
